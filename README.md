@@ -14,5 +14,5 @@ sudo apt autoremove
 
 ### nikto
 ```
-sudo apt -y install nikto
+sudo apt -y libwww-perl install nikto
 ```
