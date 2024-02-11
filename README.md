@@ -2,11 +2,11 @@
 
 ## Update
 ```
-sudo apt-get update
+sudo apt update
 
-sudo apt-get -y dist-upgrade
+sudo apt -y dist-upgrade
 
-sudo apt-get autoremove
+sudo apt autoremove
 ```
 
 
