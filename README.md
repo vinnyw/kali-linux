@@ -21,5 +21,5 @@ sudo ln -vs /usr/share/uniscan/uniscan.conf /etc/uniscan.conf
 sudo sed -i '/^url_encode/s/=.*$/=1/' /etc/uniscan.conf
 sudo sed -i '/^autoupdate/s/=.*$/=0/' /etc/uniscan.conf
 ```
-Reports are stored in */usr/share/uniscan/*
+Reports and logs are stored in */usr/share/uniscan/*
 
