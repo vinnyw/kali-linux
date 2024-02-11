@@ -9,3 +9,10 @@ sudo apt-get -y dist-upgrade
 sudo apt-get autoremove
 ```
 
+
+## Scanners
+
+### nikto
+```
+sudo apt -y install nikto
+```
