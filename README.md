@@ -19,5 +19,5 @@ sudo apt -y install nikto
 sudo apt -y install libwww-perl liblog-any-adapter-log4perl-perl uniscan
 sudo ln -vs /usr/share/uniscan/uniscan.conf /etc/uniscan.conf
 ```
-Reports are stored in */usr/share/uniscan*
+Reports are stored in */usr/share/uniscan/*
 
